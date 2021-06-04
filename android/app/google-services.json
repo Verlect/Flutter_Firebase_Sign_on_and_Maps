@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43411958858",
+    "project_id": "travel-social-7696c",
+    "storage_bucket": "travel-social-7696c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43411958858:android:2e0286a400791e4fd78ab3",
+        "android_client_info": {
+          "package_name": "com.travel_social.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43411958858-9i8vth21jo1pj5gcb08oj565gasbjfjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travel_social.android",
+            "certificate_hash": "be0a4fd3af5ff0a20b4ad7a2b757a1cd4e93aebf"
+          }
+        },
+        {
+          "client_id": "43411958858-69bf65v58ib1vt32tsn62dpgfujhjh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4EtohB_RW7L0WSmp6hMPrAxetGMpZeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43411958858-69bf65v58ib1vt32tsn62dpgfujhjh9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
